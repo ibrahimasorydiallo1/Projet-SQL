@@ -24,5 +24,5 @@ Suivez ces étapes pour installer et lancer le projet sur votre machine locale :
 
 ### 1. Clonage du dépôt
 ```bash
-git clone https://github.com/ibrahimasorydiallo1/Projet-SQL/
+git clone https://github.com/ibrahimasorydiallo1/Projet-SQL.git
 cd Projet-SQL/
