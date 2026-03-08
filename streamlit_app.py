@@ -2,6 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 st.set_page_config(page_title="Show an external HTML", page_icon=":guardsman:", layout="wide")
 path_to_html = "./main.html" 
+st.html("<style>[data-testid='stHeaderActionElements'] {display: none;}</style>")
 
 with open(path_to_html,'r', encoding='utf-8') as f: 
     html_data = f.read()
@@ -36,3 +37,4 @@ Si vous avez des questions sur cette analyse ou si vous souhaitez collaborer sur
 *Projet réalisé dans le cadre d'un projet d'école (2026).*
 
 """)
+
