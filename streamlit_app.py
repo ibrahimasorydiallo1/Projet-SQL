@@ -6,7 +6,7 @@ path_to_html = "./main.html"
 with open(path_to_html,'r', encoding='utf-8') as f: 
     html_data = f.read()
 
-st.header("Mon projet SQL", divider="white")
+st.header("Mon projet SQL")
 
 with st.expander("Cliquez pour voir le diagramme UML de la base de données"):
     st.image("diagram_UML.png", caption="Diagramme UML de la base de données")
@@ -34,4 +34,5 @@ Si vous avez des questions sur cette analyse ou si vous souhaitez collaborer sur
 
 ---
 *Projet réalisé dans le cadre d'un projet d'école (2026).*
+
 """)
