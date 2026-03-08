@@ -8,7 +8,7 @@
 
 Lien vers l'application: https://isd-projet-sql.streamlit.app/
 
-Ce projet simule le travail d'un **Data Scout** au sein d'un club de football professionnel. En utilisant la base de données *European Soccer Database*, j'ai mis en place un pipeline d'analyse complet pour transformer des millions de lignes en décisions stratégiques : recrutement de pépites, analyse des championnats et segmentation des profils joueurs.
+Ce projet simule le travail d'un **Data Scout** au sein d'un club de football professionnel. En utilisant la base de données *European Soccer Database*, je fais des analyses pour transformer des millions de lignes en décisions stratégiques : recrutement de pépites, analyse des championnats et segmentation des profils joueurs.
 
 L'objectif est de démontrer une maîtrise totale du **SQL** et du **Data Storytelling**, en alliant rigueur technique et vision métier.
 
@@ -17,7 +17,7 @@ Le dataset à télécharger: https://www.kaggle.com/datasets/hugomathien/soccer
 ---
 
 ## Audience visée
-Les étudiants qui veulent apprendre à utiliser LangGraph, les recruteurs et toute personne souhaitant se lancer dans l'IA.
+Les étudiants qui veulent apprendre à faire du SQL et les recruteurs de talents.
 
 ## 🏗️ Architecture des Données
 Avant toute analyse, une compréhension de la structure est essentielle. Voici le diagramme UML des relations entre les tables clés (Players, Teams, Matches, Leagues).
